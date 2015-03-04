@@ -1,5 +1,4 @@
 # Leaflet.Gigapan
-==================
 Display Gigapan tiles with Leaflet.
 
 Works with quadkey-based filestructure created by Gigapan Stitch and may work with the gigapan.com website (subject to change).
@@ -12,4 +11,4 @@ See example.html for example usage (currently points to an image on gigapan.com)
 
 
 This plugin is based on the excellent Leaflet.Zoomify plugin by Bjorn Sandvik:
-  https://github.com/turban/Leaflet.Zoomify
+  <a href="https://github.com/turban/Leaflet.Zoomify" target=_blank>https://github.com/turban/Leaflet.Zoomify</a>
