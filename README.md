@@ -11,4 +11,4 @@ See example.html for example usage (currently points to an image on gigapan.com)
 
 
 This plugin is based on the excellent Leaflet.Zoomify plugin by Bjorn Sandvik:
-  <a href="https://github.com/turban/Leaflet.Zoomify" target=_blank>https://github.com/turban/Leaflet.Zoomify</a>
+  <a href="https://github.com/turban/Leaflet.Zoomify" target="_blank">https://github.com/turban/Leaflet.Zoomify</a>
